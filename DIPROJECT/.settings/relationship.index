@@ -24,9 +24,5 @@
     "id" : "GetRandomPhoneNum",
     "version" : "Latest",
     "type" : "routine"
-  }, {
-    "id" : "MDM",
-    "version" : "Latest",
-    "type" : "routine"
   } ]
 } ]
